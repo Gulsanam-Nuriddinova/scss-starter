@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+img {
+  display: inline-block;
+}
+
+span {
+  display: inline-block;
+}
+
+button {
+  background: transparent;
+}
+
+.container {
+  max-width: 100%;
+  width: 1328px;
+  margin: 0 auto;
+  padding: 0 20px;
+}/*# sourceMappingURL=style.css.map */
